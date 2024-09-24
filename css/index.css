@@ -1,0 +1,179 @@
+.div-main{
+    display: flex;
+    justify-content:space-between;
+}
+.img1{
+    margin-top: -20px;
+}
+.div1{
+    display: flex;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+.btn1{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 22px;
+    color: silver;
+    border: 4px ;
+}
+.btn1:hover{
+    border-radius:4px;
+    background-color: rgb(69, 69, 69);
+}
+.btn-airnbn{
+    text-decoration: none;
+    font-size: 18px;
+    border: 4px;
+}
+.btn-airnbn:hover{
+    border-radius: 4px;
+    background-color: rgb(69, 69, 69);
+
+}
+.btn-earth{
+    text-decoration: none;
+    border: 4px;
+   
+}
+.btn-earth:hover{
+    border-radius:4px;
+    background-color: rgb(69, 69, 69);
+    
+}
+.btt{
+    margin-left: 4px;
+}
+.div2{
+    margin-top: 12px;    
+}
+.t1{
+    
+    border-radius: 4px solid ;
+    border: black;
+}
+.div-main2{
+    width: 900px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow :1px 1px 1px 1px ;
+    border-radius: 40px;
+    margin-left: 150px
+}
+.p1{
+    display: flex;
+    justify-content: center;
+}
+.hero {
+    display: flex;
+    color: #fff;
+    text-align: left;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    flex-wrap: wrap; 
+    
+}
+.btn-secondary {
+    background: #fff;
+    color:var(--secondery-color)
+}
+.nav-items {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    list-style: none;
+    margin: 20px 0px;
+}
+
+.div-item1{
+    font-size: 20px;
+    color: black;
+    border-right: 1px solid;
+    text-decoration: none;
+    
+   
+    
+}
+.div-item2{
+    font-size: 20px;
+    color: black;
+    border-right: 1px solid;
+    text-decoration: none;
+
+}
+.div-item3{
+    font-size: 20px;
+    color: black;
+    border-right: 1px solid;
+    text-decoration: none;
+
+}
+.div-item4{
+    font-size: 20px;
+    color: black;
+    border-right: 1px solid;
+    text-decoration: none;
+
+}
+
+.div-main3{
+    display: flex;
+    overflow: scroll;
+
+
+
+}
+.divv{
+    margin-left: 40px;
+}
+.a1{
+    text-decoration: none;
+    color: black;
+}
+.div-img{
+    display: flex;
+justify-content: space-between;
+}
+.al1{
+    border-radius: 2%;
+}
+.div-main4{
+    width:100%;
+    height:600px ;
+    background-color: rgb(235, 243, 249);
+}
+.pl1{
+    overflow: scroll;
+    
+}
+.wl1{
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+.a8{
+    text-decoration: none;
+    color: silver;
+}
+.div6{
+    display: flex;
+    justify-content: space-between;
+}
+.o1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.o2{
+    color: rgb(158, 158, 158);
+}
+.fin{
+    display: flex;
+    justify-content: space-between;
+}
